@@ -1,6 +1,6 @@
 ![Logo](https://github.com/zohaibthaheem21/zohaibthaheem21/blob/main/zCover.jpg)
 <h1 align="center">Hi 👋, I'm Zohaib Ali Thaheem</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">A passionate Front-end Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibthaheem21&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibthaheem21" /> </p>
 - 🔭 I’m currently working on Front-End Web Development | DSA<br><br>- 🌱 I’m currently learning React.js | Data Structures and Algorithms<br><br>- 👯 I’m looking to collaborate on Web projects<br><br>- 💬 Ask me about Web Development | Java | C++<br><br>- 📫 How to reach me zohaibalisw21@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/zohaibthaheem21/](https://www.linkedin.com/in/zohaibthaheem21/)<br><br>- ⚡ Fun fact Code | Cricket | Tea
 
