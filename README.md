@@ -1,4 +1,4 @@
-<img src="https://github.com/zohaibthaheem21/zohaibthaheem21/blob/main/zCover.jpg" width="100%" />
+<img src="https://github.com/zohaibthaheem21/zohaibthaheem21/blob/main/zCover.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Zohaib Ali</h1>
 
