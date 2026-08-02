@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali</h1>
 
 <h3 align="center">
+<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=flat-square&logo=OpenAI&logoColor=white"/>
+</3>
+
+<h3 align="center">
 🤖 AI Engineer | Machine Learning | Deep Learning | Generative AI | Agentic AI | AI Automation
 </h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-</p>
 
 <p align="center">
 Building Intelligent AI Applications using Python, Machine Learning, Deep Learning, NLP, Streamlit, FastAPI, n8n & Make.com
