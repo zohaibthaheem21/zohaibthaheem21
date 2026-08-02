@@ -3,18 +3,8 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali</h1>
 
 <h3 align="center">
-🤖 AI Engineer
-</h3>
-
-<h3 align="center">
 🤖 AI Engineer | Machine Learning | Deep Learning | Generative AI | Agentic AI | AI Automation
 </h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Engineer-4B0082?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=flat-square&logo=googlegemini&logoColor=white"/>
-</p>
 
 <p align="center">
 Building Intelligent AI Applications using Python, Machine Learning, Deep Learning, NLP, Streamlit, FastAPI, n8n & Make.com
