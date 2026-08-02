@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Zohaib+Ali;AI+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI;AI+Automation+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Zohaib+Ali;AI+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI;AI+Automation+Specialist" alt="Typing SVG" />
 
 </div>
 
@@ -83,38 +83,52 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF00"/>
 </p>
 
-- Regression & Classification Models
-- Model Evaluation & Hyperparameter Tuning
-- Feature Engineering
+```
+⚙️  regression_&_classification_models.py    → supervised learning algorithms
+📈  model_evaluation_&_tuning.py             → cross-validation & hyperparameter search
+🧩  feature_engineering.py                   → feature extraction & selection
+```
 
 ### 🧠 Deep Learning
 <p align="left">
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00"/>
 </p>
 
-- ANN • CNN • RNN • LSTM • GRU
+```
+🧬  ann.py    → artificial neural networks
+🖼️  cnn.py    → convolutional neural networks
+🔁  rnn.py    → recurrent neural networks
+⏳  lstm.py   → long short-term memory networks
+🚪  gru.py    → gated recurrent units
+```
 
 ### 🗣️ NLP
-- Text Classification
-- TF-IDF & CountVectorizer
-- Sentiment Analysis
-- Emotion Detection
+```
+📝  text_classification.py       → categorizing raw text into labels
+🔢  tfidf_&_countvectorizer.py    → text vectorization techniques
+😀  sentiment_analysis.py        → polarity & opinion detection
+🎭  emotion_detection.py         → fine-grained emotion classification
+```
 
 ### ✨ Generative AI
 <p align="left">
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF00"/>
 </p>
 
-- Prompt Engineering
-- LLM Applications & AI Assistants
-- Retrieval-Augmented Generation (RAG)
-- AI Workflows
+```
+✍️  prompt_engineering.py     → crafting optimized prompts for LLMs
+🧠  llm_applications.py       → LLM-powered apps & AI assistants
+📚  rag_pipeline.py           → retrieval-augmented generation
+🔗  ai_workflows.py           → end-to-end generative AI pipelines
+```
 
 ### 🕹️ Agentic AI
-- AI Agents • Multi-Agent Systems
-- LangChain • LangGraph
-- MCP • Tool Calling
-- AI Automation
+```
+🤖  ai_agents.py              → autonomous & multi-agent systems
+🔗  langchain_langgraph.py    → agent orchestration frameworks
+🔌  mcp_tool_calling.py       → model context protocol & tool use
+⚙️  ai_automation.py          → automated agentic pipelines
+```
 
 ### 🔁 AI Automation
 <p align="left">
@@ -122,10 +136,12 @@
 <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logoColor=00FF00"/>
 </p>
 
-- Workflow Automation
-- Email Classification
-- API Integration
-- Business Process Automation
+```
+🔁  workflow_automation.json     → automated multi-step pipelines
+📧  email_classification.json    → AI-driven email sorting
+🔌  api_integration.json         → connecting apps & services
+🏢  business_automation.json     → end-to-end business process bots
+```
 
 ### 🌐 Web & Deployment
 <p align="left">
